@@ -1,0 +1,4 @@
+{
+  "run_cnn.py::test": true,
+  "run_rnn.py::test": true
+}
